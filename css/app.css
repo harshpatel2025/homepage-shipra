@@ -1773,13 +1773,21 @@ a {
   justify-content: space-between;
   position: relative;
 }
-.header-logo-link {
+/* .header-logo-link {
   display: inline-block;
   height: 1rem;
 }
 .header-logo-link img {
   height: 100%;
   width: auto;
+} */
+.header-logo-link {
+  background-color: white;
+  display: inline-block;
+  padding: 5px; 
+}
+.header-logo-link img {
+  display: block;
 }
 .header-logo {
   position: relative;
