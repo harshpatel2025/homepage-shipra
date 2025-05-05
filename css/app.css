@@ -1773,14 +1773,24 @@ a {
   justify-content: space-between;
   position: relative;
 }
-.header-logo-link {
+/* .header-logo-link {
   display: inline-block;
   height: 36px;
 }
 .header-logo-link img {
   height: 100%;
   width: auto;
+} */
+
+.header-logo-link {
+  display: block;
+  height: 36px;
 }
+.header-logo-link img {
+  height: 100%;
+  width: 7.25rem;
+}
+
 /* .header-logo-link {
   display: inline-block;
   padding: 5px; 1rem
