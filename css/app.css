@@ -1773,17 +1773,17 @@ a {
   justify-content: space-between;
   position: relative;
 }
-/* .header-logo-link {
+.header-logo-link {
   display: inline-block;
-  height: 1rem;
+  height: 36px;
 }
 .header-logo-link img {
   height: 100%;
   width: auto;
-} */
+}
 /* .header-logo-link {
   display: inline-block;
-  padding: 5px; 
+  padding: 5px; 1rem
 }
 .header-logo-link img {
   display: block;
