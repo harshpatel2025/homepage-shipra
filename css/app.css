@@ -1783,7 +1783,7 @@ a {
 } */
 
 .header-logo-link {
-  display: block;
+  display: inline-block;
 }
 .header-logo-link img {
   height: 100%;
