@@ -1784,6 +1784,7 @@ a {
 
 .header-logo-link {
   display: inline-block;
+  height: 36px;
 }
 .header-logo-link img {
   height: 100%;
