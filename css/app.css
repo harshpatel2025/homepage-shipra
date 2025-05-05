@@ -1788,7 +1788,8 @@ a {
 }
 
 .header-logo-link img {
-  display: block;
+  height: 100%;
+  width: auto;
 }
 
 /* .header-logo-link {
