@@ -1781,13 +1781,13 @@ a {
   height: 100%;
   width: auto;
 } */
-.header-logo-link {
+/* .header-logo-link {
   display: inline-block;
   padding: 5px; 
 }
 .header-logo-link img {
   display: block;
-}
+} */
 .header-logo {
   position: relative;
   top: .9375rem;
