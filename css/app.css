@@ -1790,7 +1790,6 @@ a {
 .header-logo-link img {
   height: 100%;
   width: auto; 
-  max-width: 300px;
 }
 
 /* .header-logo-link {
